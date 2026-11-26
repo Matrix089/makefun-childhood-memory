@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363/Matrix089/makefun-childhood-memory/rank.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363)
 [![reward](https://make.fun/badge/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363/Matrix089/makefun-childhood-memory/reward.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363?utm_source=github&utm_medium=readme&utm_campaign=u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363)
 
-A tiny Python program that writes one sentence recalling a childhood memory, 209 characters, to /output/entry.txt for make.fun's Make the AI Judge Feel Nostalgic: A Childhood Memory bounty.
+A tiny Python program that writes one sentence recalling a childhood memory, 220 characters, to /output/entry.txt for make.fun's Make the AI Judge Feel Nostalgic: A Childhood Memory bounty.
 
 ## Run it
 
